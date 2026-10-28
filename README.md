@@ -3,8 +3,8 @@
 Final-year MEng Engineering Science student at the University of Oxford, focusing on machine learning, deep learning, optimisation and software.
 
 ### What I'm working on
-- **ML-driven Formula Student chassis optimisation engine** (MEng project): a Python engine that applies deep learning to chassis design, using a graph neural network surrogate in place of slow finite element solves. It starts with space frames and will extend to composite monocoques.
-
+- **ML-driven Formula Student chassis optimisation engine** (MEng project): My master's research project is developing an ML-driven Formula Student chassis optimisation engine in Python. Starting with space frames, I am exploring how deep learning techniques can be applied to chassis design, with plans to extend it to composite monocoques.
+  
 ### Recent projects
 - **[ExtraEnergy](https://github.com/T-ny324/Oxhack)** (OxHack 2026, team lead): a vehicle-to-grid EV charger and app.
   - Formulated the charge/sell scheduling as a linear program, solved with the simplex method in ~4 ms.
