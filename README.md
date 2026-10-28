@@ -12,6 +12,6 @@ Final-year MEng Engineering Science student at the University of Oxford, focusin
   - Saved £266/yr per owner in a year-long backtest. [Live app](https://extraenergy.streamlit.app)
 
 ### Tools
-Python (NumPy, pandas, SciPy, scikit-learn, LightGBM) · C++ · MATLAB · Git/GitHub · Claude Code
+Python (OOP, NumPy, pandas) · C++ (OOP) · MATLAB · Git/GitHub · Claude Code
 
 📫 [LinkedIn](https://www.linkedin.com/in/abdul-hamid-akintomide-717981320) · Abdul-hamid.akintomide@chch.ox.ac.uk
